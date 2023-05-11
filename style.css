@@ -1,0 +1,59 @@
+h1{
+    color: rgb(69, 218, 0);
+    font-size: 70px;
+    font-weight: 600;
+    display: inline-block;
+}
+body{
+    background-color: blue;
+}
+h2{
+
+    font-size: 70px;
+font-weight: 700;
+text-align: center;
+background-color: chartreuse;
+display: inline-block;
+
+
+}
+
+h3{
+color: coral;
+
+background-color: chartreuse;
+font-size: 70px;
+
+
+}
+   
+input{
+    display: block;
+}
+
+p{
+color: lawngreen;
+background-color: darkcyan;
+width: 500px;
+font-size: 20px;
+
+
+padding: 30px;
+/*padding: 30px 30px;*/
+/*padding: 30px 30px 30px;*/
+/*padding: 30px 30px 30px 30px; */
+
+margin: 50px;
+/*padding: 30px 30px;*/
+/*padding: 30px 30px 30px;*/
+/*padding: 30px 30px 30px 30px;*/
+
+
+/*border: 50px green solid;*/
+/*border: 50px green dashed;*/
+border: 5px green solid ;
+border-radius: 15px;
+
+}
+
+
